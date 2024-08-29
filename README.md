@@ -99,5 +99,5 @@ list, frees the memory allocated for the node, and prints a success message.
 • If the student is not found, it prints a message indicating the student was 
 not found. 
 🔗 Watch the video on my YouTube channel :
-https://youtu.be/1hdIESoWncw?si=36mYnw8PWmqCZdGY
+https://youtu.be/Txr6ZFt4jMY?si=xJDWYMm4_P_qvtfu
 Thanks
